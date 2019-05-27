@@ -3,12 +3,26 @@
     display: flex;
     justify-content: center;
 }
-.item{
+
+.item {
     position: absolute;
 }
-.box95{
+
+.box95 {
     top: 7px;
-left: 445px;
+    left: 445px;
+}
+.box96{
+    top: 7px;
+    right: 445px;
+}
+.box97{
+    bottom: 120px;
+    right: 445px;
+}
+.box98{
+    bottom: 120px;
+    left: 445px;
 }
 img {
     height: 70px;
@@ -35,16 +49,16 @@ img {
 
 /* sunglasses */
 
-.box95:hover #box23, .box95:hover #box58,.box95:hover #box59,.box95:hover #box63,.box95:hover #box64,.box95:hover #box67,.box95:hover #box68,.box95:hover #box69,.box95:hover #box62,.box95:hover #box39,.box95:hover #box70,.box95:hover #box41,.box95:hover #box76,.box95:hover #box77,.box95:hover #box72,.box95:hover #box36,.box95:hover #box38,.box95:hover #box46,.box95:hover #box73,.box95:hover #box43,.box95:hover #box78,.box95:hover #box79,.box95:hover #box75,.box95:hover #box42 {
+.box95:hover #box23, .box95:hover #box58, .box95:hover #box59, .box95:hover #box63, .box95:hover #box64, .box95:hover #box67, .box95:hover #box68, .box95:hover #box69, .box95:hover #box62, .box95:hover #box39, .box95:hover #box70, .box95:hover #box41, .box95:hover #box76, .box95:hover #box77, .box95:hover #box72, .box95:hover #box36, .box95:hover #box38, .box95:hover #box46, .box95:hover #box73, .box95:hover #box43, .box95:hover #box78, .box95:hover #box79, .box95:hover #box75, .box95:hover #box42 {
     background: #000;
     transition: 0.5s;
     color: #000;
 }
-.box95:hover #box39,.box95:hover #box52,.box95:hover #box53,.box95:hover #box71,.box95:hover #box40,.box95:hover #box54,.box95:hover #box48,.box95:hover #box55,.box95:hover #box56,.box95:hover #box74,.box95:hover #box45,.box95:hover #box57{
+
+.box95:hover #box39, .box95:hover #box52, .box95:hover #box53, .box95:hover #box71, .box95:hover #box40, .box95:hover #box54, .box95:hover #box48, .box95:hover #box55, .box95:hover #box56, .box95:hover #box74, .box95:hover #box45, .box95:hover #box57 {
     background-color: rgb(70, 70, 70);
     transition: 0.5s;
     color: rgb(70, 70, 70);
-
 }
 
 /* sunglasses */
@@ -58,7 +72,6 @@ img {
 #box1, #box3, #box4, #box5, #box6, #box7, #box10, #box22, #box16, #box18, #box19, #box23, #box24, #box27, #box28, #box30, #box33, #box36, #box37, #box38, #box39, #box40, #box41, #box42, #box43, #box44, #box45, #box46, #box47, #box49, #box51, #box54, #box56, #box57, #box58, #box59, #box62, #box63, #box64, #box67, #box68, #box69, #box70, #box71, #box72, #box73, #box74, #box75, #box76, #box77, #box78, #box79, #box81, #box82, #box83, #box87, #box88, #box89, #box90, #box91, #box92, #box93, #box94 {
     background-color: #f7ff00;
     color: #f7ff00;
-
 }
 
 #box11 {
